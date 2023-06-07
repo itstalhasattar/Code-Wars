@@ -1,9 +1,9 @@
 var summation = function (num) {
-    // Solution
+    // Solutions
     let result= 0;
     let counter=0;
     while (counter <= num){
-      result=result + counter
+      result = result + counter
       counter = counter+1
     }
     return result
