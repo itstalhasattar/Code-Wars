@@ -1,5 +1,5 @@
 var summation = function (num) {
-    // Code here
+    // Solution
     let result= 0;
     let counter=0;
     while (counter <= num){
